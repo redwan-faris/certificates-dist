@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkosboha180"]=self["webpackChunkosboha180"]||[]).push([[3062],{63062:(e,n,o)=>{o.r(n),o.d(n,{default:()=>i});var s=o(66252),a={class:"row"},r=(0,s._)("div",{class:"col-lg-12"}," Here Add Your HTML Content..... ",-1),t=[r];function c(e,n,o,r,c,u){return(0,s.wg)(),(0,s.iD)("div",a,t)}const u={name:"BlankPage",mounted:function(){}};var d=o(83744);const l=(0,d.Z)(u,[["render",c]]),i=l}}]);
+//# sourceMappingURL=3062.cde51000.js.map
